@@ -20,7 +20,7 @@ Je m'appelle **Lukas Vachet**, alias **Kviar**. Étudiant en Bachelor 3 à l'IPS
 À côté, je monte mon homelab, je développe des mods et des jeux, et je bricole des applis pour montre connectée.
 
 - **Spécialités** · cybersécurité, cloud, infrastructure réseau
-- **Homelab** · Proxmox sur Mac mini → Home Assistant, serveur Minecraft en conteneur LXC, accès distant via Tailscale
+- **Homelab** · Proxmox sur Mac mini → Home Assistant, serveur Minecraft
 - **À côté** · développement de jeux sous Unity, mods Minecraft, production musicale
 
 <sub><code>OUTILS · STACK</code></sub>
