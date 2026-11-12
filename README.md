@@ -56,11 +56,6 @@ Je m'appelle **Lukas Vachet**, alias **Kviar**. Étudiant en Bachelor 3 à l'IPS
 ### Activité
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuKviar&show_icons=true&hide_border=true&bg_color=130D0C&title_color=DCA46A&icon_color=B8743F&text_color=F3EAE0&count_private=true&locale=fr" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuKviar&layout=compact&hide_border=true&bg_color=130D0C&title_color=DCA46A&text_color=F3EAE0&locale=fr" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=LuKviar&hide_border=true&background=130D0C&ring=6B1B2E&fire=B8743F&currStreakLabel=DCA46A&sideLabels=F3EAE0&currStreakNum=F3EAE0&sideNums=F3EAE0&dates=B9BCC2&locale=fr" />
 </div>
 
